@@ -6,22 +6,23 @@
  * contain code that should be seen on all pages. (e.g. navigation bar)
  */
 
+import { CssBaseline } from '@mui/material';
 import * as React from 'react';
 import { Switch, Route, BrowserRouter } from 'react-router-dom';
 
-import { GlobalStyle } from 'styles/global-styles';
-
-import { HomePage } from './pages/HomePage/Loadable';
-import { NotFoundPage } from './components/NotFoundPage/Loadable';
+import { LoginScreen } from './screens/Login/LoginScreen';
+import { NotFoundScreen } from './screens/NotFound/NotFoundScreen';
 
 export function App() {
   return (
-    <BrowserRouter>
-      <Switch>
-        <Route exact path="/" component={HomePage} />
-        <Route component={NotFoundPage} />
-      </Switch>
-      <GlobalStyle />
-    </BrowserRouter>
+    <>
+      <CssBaseline />
+      <BrowserRouter>
+        <Switch>
+          <Route exact path="/" component={LoginScreen} />
+          <Route component={NotFoundScreen} />
+        </Switch>
+      </BrowserRouter>
+    </>
   );
 }
