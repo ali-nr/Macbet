@@ -1,0 +1,49 @@
+enum State {
+  NSW
+  QLD
+  SA
+  TAS
+  VIC
+  WA
+}
+
+type Meeting {
+  id: ID
+  name: String
+  date: String
+  country: String
+  state: State!
+  races: [Race]
+}
+
+type Race {
+  id: ID
+  meeting: Meeting!
+  status: String
+  raceNumber: Int
+  startTime: String
+  country: String
+  state: State!
+  horses: [Horse]
+}
+
+type Horse {
+  name: String
+  jockey: String
+  trainer: String
+  odds: HorseOdds
+}
+
+type HorseOdds {
+  fixedWin: Int
+  fixedPlace: Int
+}
+
+type Query {
+  meetings(state: State!): [Meeting]!
+  races(ids: [ID!]!): [Race]!
+}
+
+schema {
+  query: Query
+}

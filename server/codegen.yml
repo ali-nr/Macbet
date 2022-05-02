@@ -1,0 +1,17 @@
+overwrite: true
+schema: './graphql/schema.graphql'
+documents: null
+generates:
+  graphql/generated.ts:
+    config:
+      contextType: './apolloContext#ApolloContext'
+      mappers:
+        Meeting: ./data/types#MeetingModel
+        Race: ./data/types#RaceModel
+        Horse: ./data/types#HorseModel
+    plugins:
+      - 'typescript'
+      - 'typescript-resolvers'
+  ./graphql.schema.json:
+    plugins:
+      - 'introspection'

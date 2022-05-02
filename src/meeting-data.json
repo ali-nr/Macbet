@@ -1,0 +1,2958 @@
+{
+  "header": {
+    "title": "Race Meetings",
+    "generated_time": "2022-04-28T03:22:43.214203844Z",
+    "url": "/affiliates/v1/racing/meetings?country=AUS&limit=200"
+  },
+  "params": {
+    "enc": "json",
+    "id": "",
+    "date_from": "2022-04-28T03:22:43.214194186Z",
+    "date_to": "2022-04-28T03:22:43.214196041Z",
+    "type": " ",
+    "country": "AUS",
+    "limit": 200,
+    "offset": 0
+  },
+  "data": {
+    "meetings": [
+      {
+        "meeting": "9c0ae37c-dff2-4776-a7d3-77a7c9bdfaac",
+        "name": "Warragul",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "G",
+        "category_name": "Greyhound Racing",
+        "country": "AUS",
+        "state": "VIC",
+        "races": [
+          {
+            "id": "296a3c1b-7b9f-44db-94cc-e13ee85ebaf5",
+            "race_number": 1,
+            "name": "Viatek",
+            "start_time": "2022-04-28T01:25:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "c10590c2-ee03-4583-9648-5df3f4eabb26",
+            "race_number": 2,
+            "name": "Find About Us On Facebook",
+            "start_time": "2022-04-28T01:42:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "0b483031-fad7-4c8e-9bfe-01c97d95b047",
+            "race_number": 3,
+            "name": "Khans Hospitality Services",
+            "start_time": "2022-04-28T02:00:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a360d06d-39b8-4012-984e-8a79e36267d1",
+            "race_number": 4,
+            "name": "Blue Stream Pictures",
+            "start_time": "2022-04-28T02:17:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "7a4e726d-e1a3-4ba8-b88d-3be5daa946b9",
+            "race_number": 5,
+            "name": "Download The Watchdog App",
+            "start_time": "2022-04-28T02:34:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "6a0a53d8-342b-4cc1-b980-cd79e5687911",
+            "race_number": 6,
+            "name": "Tab.Com.Au (1-4 Wins)",
+            "start_time": "2022-04-28T02:52:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "19895c83-428a-4e37-a475-221fc6b87428",
+            "race_number": 7,
+            "name": "Oaks Function Centre",
+            "start_time": "2022-04-28T03:15:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "e2ad65cb-3b3a-4af9-9ee3-af635c51cf09",
+            "race_number": 8,
+            "name": "Tab - Long May We Play",
+            "start_time": "2022-04-28T03:39:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "431dff73-fd81-437a-99b6-99e36a9a165a",
+            "race_number": 9,
+            "name": "Barn Bar & Function Room",
+            "start_time": "2022-04-28T04:07:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "ff108a94-998e-43f6-a870-ceffebc91838",
+            "race_number": 10,
+            "name": "Sennachie At Stud ",
+            "start_time": "2022-04-28T04:27:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "51c1ecaf-c796-45a6-963c-a9553932c504",
+            "race_number": 11,
+            "name": "Paua Kennels (1-3 Wins)",
+            "start_time": "2022-04-28T04:47:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "8659f2f4-252c-44da-b68a-42e16aecd3d2",
+            "race_number": 12,
+            "name": "Shima Shine At Stud",
+            "start_time": "2022-04-28T05:08:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "fd798805-d4c8-4d6c-9d1d-ab01938cd7b3",
+        "name": "Casino",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "G",
+        "category_name": "Greyhound Racing",
+        "country": "AUS",
+        "state": "NSW",
+        "races": [
+          {
+            "id": "f659ab08-76a2-4f9e-9dc4-3a096b879e4e",
+            "race_number": 1,
+            "name": "Cecil Hotel Casino Maiden",
+            "start_time": "2022-04-28T01:34:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "6f7eec3e-95ef-4bae-a4bf-67d1f997f8c8",
+            "race_number": 2,
+            "name": "Richmond Valley Tyres Maiden",
+            "start_time": "2022-04-28T01:54:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "776caa57-69fa-42fb-a320-81d04ea6bbfa",
+            "race_number": 3,
+            "name": "Ladbroke It!",
+            "start_time": "2022-04-28T02:09:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "3c07ece5-e7fe-49e5-842e-25a9786b70bf",
+            "race_number": 4,
+            "name": "Riverina Stockfeeds",
+            "start_time": "2022-04-28T02:24:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "6c348b27-4771-4963-8ce0-8e8f91911c0e",
+            "race_number": 5,
+            "name": "Radio 2Lm & Triple Z",
+            "start_time": "2022-04-28T02:42:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "00bbb24e-0478-4057-8899-0d7c1fcb048a",
+            "race_number": 6,
+            "name": "Clydesdale Motel & Steakhouse",
+            "start_time": "2022-04-28T03:07:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "d5e08d1f-f7c8-4fc7-b5f1-5ff58dc0ad0c",
+            "race_number": 7,
+            "name": "Damien Pacitto Electrical",
+            "start_time": "2022-04-28T03:27:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "c993db39-aae2-4523-bf44-a1bcea064484",
+            "race_number": 8,
+            "name": "Casino Rsm Club",
+            "start_time": "2022-04-28T03:53:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "dcdae850-d73b-4948-aba4-15d66ca9e7de",
+            "race_number": 9,
+            "name": "Palmerbet Bookies Bag",
+            "start_time": "2022-04-28T04:14:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "bc3f45b3-28a2-493a-95b4-eff4e76362e6",
+            "race_number": 10,
+            "name": "Jc Air Conditioning",
+            "start_time": "2022-04-28T04:39:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "7d2e2236-222a-4d19-a05f-7ff9f8ccac69",
+            "race_number": 11,
+            "name": "Casino Golf Club 1-2 Wins 1-2 Wins F",
+            "start_time": "2022-04-28T04:54:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "887eb6b2-a052-433b-8271-54ffe3aa8457",
+            "race_number": 12,
+            "name": "Ladbrokes Bet Ticker 1-2 Wins 1-2 Wins F",
+            "start_time": "2022-04-28T05:14:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "9cdcb594-7e17-4378-bd8c-7c9e5454b035",
+        "name": "Bathurst",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "H",
+        "category_name": "Harness Horse Racing",
+        "country": "AUS",
+        "state": "NSW",
+        "races": [
+          {
+            "id": "5ea64b38-be57-4b5f-9c04-283a15957f2d",
+            "race_number": 1,
+            "name": "Ballinger Transport Ladyship Pace",
+            "start_time": "2022-04-28T02:03:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "2b8c525e-3378-409b-8179-3353669b730c",
+            "race_number": 2,
+            "name": "Sky Racing Active Pace",
+            "start_time": "2022-04-28T02:32:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "bbf8961f-6dd5-4fa4-a74e-b5e3415e0cb9",
+            "race_number": 3,
+            "name": "Reliance Bank Pace",
+            "start_time": "2022-04-28T03:10:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "173af863-a0cc-4fc2-8889-cc7d4dd15b63",
+            "race_number": 4,
+            "name": "Vale Sue Owens Pace",
+            "start_time": "2022-04-28T03:48:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "e35014d7-f008-4dfe-ac41-060db4f4b4d7",
+            "race_number": 5,
+            "name": "Vale Mary Abbott Pace",
+            "start_time": "2022-04-28T04:23:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "1c74d517-2785-428c-a935-d20653f55237",
+            "race_number": 6,
+            "name": "Vale Paul Collins Pace",
+            "start_time": "2022-04-28T05:03:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "9299449e-d5be-4dd6-a32e-ed084b4041e1",
+            "race_number": 7,
+            "name": "Bathurst Rsl Club Pace",
+            "start_time": "2022-04-28T05:39:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a98ef4c3-2e6c-4a51-bd0f-6250f9af3541",
+            "race_number": 8,
+            "name": "Bourkes Horse Rugs Maiden Pace",
+            "start_time": "2022-04-28T06:15:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "bd560428-8ed4-4b25-8ff0-decbe5019b5b",
+        "name": "Wyong",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "T",
+        "category_name": "Thoroughbred Horse Racing",
+        "country": "AUS",
+        "state": "NSW",
+        "races": [
+          {
+            "id": "4ea37d97-0cf9-4899-8c3a-de6d2a6cdd4b",
+            "race_number": 0,
+            "name": "Wyong",
+            "start_time": "2022-04-28T02:20:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "06135e70-216b-4de6-bf64-195838ddedcb",
+            "race_number": 1,
+            "name": "Hma Group Mdn Plate",
+            "start_time": "2022-04-28T02:20:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "68f4bd2c-a3db-44c6-be2d-090eda418988",
+            "race_number": 2,
+            "name": "Hma Instrumentation Mdn Hcp",
+            "start_time": "2022-04-28T02:55:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "5ba38d5f-1142-4fc3-9e9c-8f3bd07e2376",
+            "race_number": 3,
+            "name": "Hma Power Generation Mdn Plate",
+            "start_time": "2022-04-28T03:35:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "5f47d70f-20b1-4c44-b3da-fa06d11584dc",
+            "race_number": 4,
+            "name": "Hma Materials Handling Mdn Hcp",
+            "start_time": "2022-04-28T04:10:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "316dd33a-8957-41bd-b6c5-f2bf33933fbc",
+            "race_number": 5,
+            "name": "Hma Flow & Industrial Hcp (C1)",
+            "start_time": "2022-04-28T04:50:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "20f2f02b-5cb5-4c8e-bb0b-e2fc9449c21f",
+            "race_number": 6,
+            "name": "Hma Geotechnical (Bm64)",
+            "start_time": "2022-04-28T05:25:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "f9645f5a-cbda-41f7-9cb9-d86ea16f93f6",
+            "race_number": 7,
+            "name": "Hma Wear Solutions Hcp (C1)",
+            "start_time": "2022-04-28T06:05:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "83130144-4696-4669-b67c-5da7f6ca28e4",
+            "race_number": 8,
+            "name": "Hma Gtech Cyclones (Bm64)",
+            "start_time": "2022-04-28T06:40:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "ed0b7612-b6f0-4acf-a0f3-05c713261b82",
+        "name": "Mackay",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "T",
+        "category_name": "Thoroughbred Horse Racing",
+        "country": "AUS",
+        "state": "QLD",
+        "races": [
+          {
+            "id": "64876e1b-8115-47a4-a01e-3b913824d9d8",
+            "race_number": 0,
+            "name": "Mackay",
+            "start_time": "2022-04-28T02:27:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a69fa440-1718-48f6-b4dc-1d56f8125c28",
+            "race_number": 1,
+            "name": "Queensland Hotels (Bm60)",
+            "start_time": "2022-04-28T02:27:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a467278e-b14b-4b6b-b679-782b7c62abe0",
+            "race_number": 2,
+            "name": "Keno Mackay Classic Hcp",
+            "start_time": "2022-04-28T03:04:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "5b18ff83-8d86-44e1-b20b-8e26b01b9f5c",
+            "race_number": 3,
+            "name": "Max Mdn Hcp",
+            "start_time": "2022-04-28T03:42:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a3089b75-547f-414e-8391-be0b1746a40d",
+            "race_number": 4,
+            "name": "Independent Liquor Group (C3)",
+            "start_time": "2022-04-28T04:17:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "faaab48d-b018-44f1-80c3-37e667caf0de",
+            "race_number": 5,
+            "name": "Qha Awards For Excellence (55)",
+            "start_time": "2022-04-28T04:57:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "699d9474-f001-461f-a4d5-f6f9b1361d44",
+            "race_number": 6,
+            "name": "Tab Long May We Play Hcp",
+            "start_time": "2022-04-28T05:34:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "517ea72d-8343-462a-bfd9-907bcea378b0",
+            "race_number": 7,
+            "name": "Sun Flux Solar Hcp (C1)",
+            "start_time": "2022-04-28T06:12:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "d86c64e1-3650-442f-a4fa-8371ee1d0992",
+            "race_number": 8,
+            "name": "Qha Hamilton Island Golf (C6)",
+            "start_time": "2022-04-28T06:47:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "505029d0-7a4c-47cc-8c31-93b8c13fed9c",
+        "name": "Mount Gambier",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "G",
+        "category_name": "Greyhound Racing",
+        "country": "AUS",
+        "state": "SA",
+        "races": [
+          {
+            "id": "93908dbf-c7d6-4733-aa42-7ba5cde45168",
+            "race_number": 1,
+            "name": "Swallow Drive Meats Maiden Stake Pr2 Division1",
+            "start_time": "2022-04-28T02:31:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "5599ac00-b6f4-4ac5-8e1e-361b7809c39b",
+            "race_number": 2,
+            "name": "Bartholomew Pick 6 (N/P) Stake Pr2 Division1",
+            "start_time": "2022-04-28T02:49:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "1b53b9b6-964d-4c6b-8e6d-d1638c5475e7",
+            "race_number": 3,
+            "name": "Exchange Printers (N/P) Stake Pr2 Division2",
+            "start_time": "2022-04-28T03:04:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "2fa2f14d-5055-4a1c-89d0-6b3ebd675c1d",
+            "race_number": 4,
+            "name": "Metal Worx (N/P) Stake Pr2 Division1",
+            "start_time": "2022-04-28T03:24:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "bdc55df8-4101-48eb-98d6-81e0feea7845",
+            "race_number": 5,
+            "name": "Williams Crane Hire (N/P) Stake Pr2 Division3",
+            "start_time": "2022-04-28T03:45:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "8c043adb-fab9-4086-a258-061029fa730e",
+            "race_number": 6,
+            "name": "Commercial Hotel (N/P) Stake Pr2 Division4",
+            "start_time": "2022-04-28T04:02:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "94891b41-8e0b-4a61-aaef-cc74a6add90a",
+            "race_number": 7,
+            "name": "Todd's Photographics (N/P) Stake Pr2 Division1",
+            "start_time": "2022-04-28T04:20:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "995d2152-6768-4a9d-8f23-ffb25275adb5",
+            "race_number": 8,
+            "name": "Gambier Vets (N/P) Stake Pr2 Division1",
+            "start_time": "2022-04-28T04:36:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "4f99a915-40bc-4545-b831-3103852facd3",
+            "race_number": 9,
+            "name": "Carlin & Gazzard Mg (N/P) Stake Pr2 Division5",
+            "start_time": "2022-04-28T04:59:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "2461eaf4-17d8-4f60-8854-a8e846c9385a",
+            "race_number": 10,
+            "name": "Klaassens Contractors (N/P) Stake Pr2 Division6",
+            "start_time": "2022-04-28T05:17:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "51e4a176-5ba9-4590-81dc-792b24683850",
+            "race_number": 11,
+            "name": "Progreyhoundtips.Com (N/P) Stake Pr2 Division2",
+            "start_time": "2022-04-28T05:40:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "b5827d91-a16d-4e93-8e15-9e7941f6a4e3",
+            "race_number": 12,
+            "name": "Greg Martlew Autos (N/P) Stake Pr2 Division3",
+            "start_time": "2022-04-28T06:05:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "e4a394a2-870f-487e-9f46-231104e50acf",
+        "name": "Charlton",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "H",
+        "category_name": "Harness Horse Racing",
+        "country": "AUS",
+        "state": "VIC",
+        "races": [
+          {
+            "id": "a362f2cd-e601-4b3b-8c50-daf101919231",
+            "race_number": 1,
+            "name": "The Vale Of Avoca Pace",
+            "start_time": "2022-04-28T02:37:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "6ec0612a-3053-45a4-ab81-a889325ed0f1",
+            "race_number": 2,
+            "name": "Warpil (Wedge Tailed Eagle) Trot",
+            "start_time": "2022-04-28T03:10:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "2593a3f3-2e81-41bd-908c-3fe8988a6228",
+            "race_number": 3,
+            "name": "Cricket Club Hotel 2Yo Pace",
+            "start_time": "2022-04-28T03:48:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "1c23bd19-94d6-4133-8c59-e559977d2d41",
+            "race_number": 4,
+            "name": "Barrumal (Emu) Pace",
+            "start_time": "2022-04-28T04:22:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "70cfadf3-0516-4291-8575-210a533519dc",
+            "race_number": 5,
+            "name": "Banya (Ring Tailed Possum) Pace",
+            "start_time": "2022-04-28T05:03:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "b1e2346f-cf44-402d-9942-149d9d0183c0",
+            "race_number": 6,
+            "name": "Gurri (Eastern Grey Kangaroo) Pace",
+            "start_time": "2022-04-28T05:44:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "bb3ff227-45e2-458e-b3b8-58df934fd531",
+            "race_number": 7,
+            "name": "Djaara Cup",
+            "start_time": "2022-04-28T06:19:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "6ea6d538-6ddd-47a1-a77b-91c2983ed505",
+            "race_number": 8,
+            "name": "Tab Long May We Play Pace",
+            "start_time": "2022-04-28T06:51:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "e4d68f0b-5606-4bdc-ba7e-f1b0c1450e28",
+        "name": "Mornington",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "T",
+        "category_name": "Thoroughbred Horse Racing",
+        "country": "AUS",
+        "state": "VIC",
+        "races": [
+          {
+            "id": "6e1e7e52-f079-4ef1-8a5b-833c798217c2",
+            "race_number": 0,
+            "name": "Mornington",
+            "start_time": "2022-04-28T03:00:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "d3b3df47-29b6-4a14-b29f-9969cf8a4a6d",
+            "race_number": 1,
+            "name": "Progress Signs Mdn Plate",
+            "start_time": "2022-04-28T03:00:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "8b525dc4-62dc-4e3b-9caa-f308f5f2fbc5",
+            "race_number": 2,
+            "name": "Quayclean Mdn Plate",
+            "start_time": "2022-04-28T03:30:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "bf9eff9f-81a7-48dd-ac61-e776d449b092",
+            "race_number": 3,
+            "name": "The Big Screen Company Mdn",
+            "start_time": "2022-04-28T04:00:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "c707986c-4de9-499a-aeb4-42f5d8ba03cc",
+            "race_number": 4,
+            "name": "No Fuss Event Hire Mdn Plate",
+            "start_time": "2022-04-28T04:30:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "d41bf573-6cb0-49c6-8eee-7525cc9f2d21",
+            "race_number": 5,
+            "name": "Stonewood Agistment (Bm58)",
+            "start_time": "2022-04-28T05:00:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "fcfe4d41-b6fb-47a2-9cae-5c1cdec81998",
+            "race_number": 6,
+            "name": "Bite Local (Bm58)",
+            "start_time": "2022-04-28T05:30:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "7db73438-877e-40b6-9301-06bf651014d1",
+            "race_number": 7,
+            "name": "Two Bays Farm (Bm58)",
+            "start_time": "2022-04-28T06:00:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "b52bf704-d77f-41e0-8033-d0574742f2a0",
+            "race_number": 8,
+            "name": "Mercedes Benz Mornington (C2)",
+            "start_time": "2022-04-28T06:30:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "6a33884b-58de-442c-98ec-d8fb1a4c95bf",
+        "name": "Narromine",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "T",
+        "category_name": "Thoroughbred Horse Racing",
+        "country": "AUS",
+        "state": "NSW",
+        "races": [
+          {
+            "id": "9cbe543f-8df5-4a85-974d-8e7709f46e2e",
+            "race_number": 0,
+            "name": "Narromine",
+            "start_time": "2022-04-28T03:15:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "7d08b5e0-bec9-41f0-9ad5-f24597c0eeae",
+            "race_number": 1,
+            "name": "Usmc Light Horseman Mdn Hcp",
+            "start_time": "2022-04-28T03:15:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "99921a07-97de-4bc5-ad40-f985f677575e",
+            "race_number": 2,
+            "name": "Narromine Usmc Rising Sun Mdn",
+            "start_time": "2022-04-28T03:55:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "8d2e31b6-b466-4cdb-ab79-ed53253ac256",
+            "race_number": 3,
+            "name": "Narromine Usmc Veterans Mdn",
+            "start_time": "2022-04-28T04:35:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a79123c9-7cf1-49e5-9775-840b31c25590",
+            "race_number": 4,
+            "name": "Narromine Usmc Gallipoli (C3)",
+            "start_time": "2022-04-28T05:10:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "e072c681-9616-483c-afc1-2f6206172ddf",
+            "race_number": 5,
+            "name": "Narromine Shire Council (Bm50)",
+            "start_time": "2022-04-28T05:45:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "eeee881e-ccab-4835-b5e4-d61fa1cf3014",
+            "race_number": 6,
+            "name": "Usmc Narromine Diggers Hcp",
+            "start_time": "2022-04-28T06:20:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "3eb6523a-f056-43b7-be84-36944a0dd11c",
+            "race_number": 7,
+            "name": "Narromine Usmc Kokoda Trail-C1",
+            "start_time": "2022-04-28T07:00:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "0a72e5e4-3c2b-43a0-823b-c7660860e573",
+        "name": "Redcliffe",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "H",
+        "category_name": "Harness Horse Racing",
+        "country": "AUS",
+        "state": "QLD",
+        "races": [
+          {
+            "id": "a6321bf9-48c9-4b04-9343-920020e2523a",
+            "race_number": 1,
+            "name": "Aqwa Constructions Maiden Pace",
+            "start_time": "2022-04-28T03:22:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "e736d323-f0e4-4ad2-80c1-3bd21d50681f",
+            "race_number": 2,
+            "name": "Dan Costello Photography Maiden Pace",
+            "start_time": "2022-04-28T04:03:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "855a0c0a-b0d0-464e-b378-a9fc4b489e87",
+            "race_number": 3,
+            "name": "Redcliffe Leagues Club Pace",
+            "start_time": "2022-04-28T04:42:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "2d554dc0-7327-4236-9874-d073afaeed58",
+            "race_number": 4,
+            "name": "Knusden's Betta Home Living 1 Win Pace",
+            "start_time": "2022-04-28T05:20:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "aab8fcff-9060-4f4f-b356-bdbcce14ffef",
+            "race_number": 5,
+            "name": "Elders Woodford Pace",
+            "start_time": "2022-04-28T05:55:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "825dde44-5651-44cf-b928-0610e0bbbb1e",
+            "race_number": 6,
+            "name": "Hygain Feeds Pace",
+            "start_time": "2022-04-28T06:33:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "5b3a0bd5-023f-4386-8d55-c3782281adfc",
+            "race_number": 7,
+            "name": "Northgate Comfort Inn 1 Win Pace",
+            "start_time": "2022-04-28T07:12:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "114f4315-f891-4e41-9a08-998a3a0ae70c",
+            "race_number": 8,
+            "name": "Grand Prix Mazda Aspley Pace",
+            "start_time": "2022-04-28T07:49:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a0180786-abe9-4fd8-917f-65cd49fe3a82",
+            "race_number": 9,
+            "name": "Garrards Horse & Hound Pace",
+            "start_time": "2022-04-28T08:13:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "4f4a5d7f-313f-4bdc-b88a-5c84572d7aa4",
+            "race_number": 10,
+            "name": "Tab Live Sky Racing Vision Pace",
+            "start_time": "2022-04-28T08:33:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "c3aa8630-ead6-476c-832c-2b462b8e1c2d",
+        "name": "Shepparton",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "G",
+        "category_name": "Greyhound Racing",
+        "country": "AUS",
+        "state": "VIC",
+        "races": [
+          {
+            "id": "10b68e28-6055-45cc-abaf-8c59b1d5ad09",
+            "race_number": 1,
+            "name": "Gpp Laser3300",
+            "start_time": "2022-04-28T04:56:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "6f95adaa-8323-4eb4-9c05-b95389e2dadb",
+            "race_number": 2,
+            "name": "Hard Style Rico @ Stud",
+            "start_time": "2022-04-28T05:11:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "abae8d34-215c-4e16-b85a-f1f9cf0fa995",
+            "race_number": 3,
+            "name": "Become A Member Rrgc",
+            "start_time": "2022-04-28T05:32:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "4feb6a0e-5a2c-4d35-a299-01b8060d8512",
+            "race_number": 4,
+            "name": "Whiskey Riot @ Stud",
+            "start_time": "2022-04-28T05:49:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "c1419761-95ae-4922-991f-499c965fae8f",
+            "race_number": 5,
+            "name": "Hone In @ Stud",
+            "start_time": "2022-04-28T06:09:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "cbc46855-90f2-40fb-b59a-bfdb6710a205",
+            "race_number": 6,
+            "name": "Gipp's Shipping Containers",
+            "start_time": "2022-04-28T06:37:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "1599b372-c3ec-4325-8f89-3479f22d3a38",
+            "race_number": 7,
+            "name": "Raw Ability @ Stud",
+            "start_time": "2022-04-28T06:59:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "15da8dcc-6b49-40c1-9dac-1096221a6c94",
+            "race_number": 8,
+            "name": "Shepparton Workwear & Safety",
+            "start_time": "2022-04-28T07:17:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "65ac71ca-49a8-4e5f-aa90-3c941737f3ff",
+            "race_number": 9,
+            "name": "Ckh Painting",
+            "start_time": "2022-04-28T07:32:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "f7a39117-5f98-44d6-a334-813155d5703c",
+            "race_number": 10,
+            "name": "Byers Electrical",
+            "start_time": "2022-04-28T07:54:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "06841673-b20c-4688-a999-84662a82989a",
+            "race_number": 11,
+            "name": "Elite Collars & Leads",
+            "start_time": "2022-04-28T08:09:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "51ca44d7-6ab4-40c2-b82d-39eef6467e43",
+            "race_number": 12,
+            "name": "Tab - Long May We Play",
+            "start_time": "2022-04-28T08:27:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "3e2ede6c-89f1-47bb-a337-1ae2c21e09b5",
+        "name": "Gawler",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "G",
+        "category_name": "Greyhound Racing",
+        "country": "AUS",
+        "state": "SA",
+        "races": [
+          {
+            "id": "65b09334-6ca7-4227-9567-a80f7f5a8e38",
+            "race_number": 1,
+            "name": "Nixon's Function Centre Mixed Stake Pr1 Division1",
+            "start_time": "2022-04-28T05:27:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "102b41cb-e0e9-4328-9dff-9ba1d7701463",
+            "race_number": 2,
+            "name": "Gawler Dry Cleaners Maiden Stake Pr1 Division1",
+            "start_time": "2022-04-28T05:43:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "f4739e14-1acf-4a71-8baf-27e2b2ee6855",
+            "race_number": 3,
+            "name": "Greyhounds As Pets Stake Pr1 Division1",
+            "start_time": "2022-04-28T05:59:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "87e9e5ed-0a5c-49f5-93cd-b8a854114d98",
+            "race_number": 4,
+            "name": "The Bunyip Stake Pr1 Division1",
+            "start_time": "2022-04-28T06:17:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "0159f900-0c11-4c50-b831-e934c9a27b06",
+            "race_number": 5,
+            "name": "Giddy-Up Stake Pr1 Division1",
+            "start_time": "2022-04-28T06:34:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "042f7386-2c82-45c0-94d5-32e342591e9c",
+            "race_number": 6,
+            "name": "Xp3020 Stake Pr1 Division2",
+            "start_time": "2022-04-28T06:56:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "bbe5426a-9481-4f9b-8450-ff1191947dbe",
+            "race_number": 7,
+            "name": "Accell Therapy Mixed Stake Pr1 Division1",
+            "start_time": "2022-04-28T07:14:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "8940e301-c4d1-4e4a-a9a5-659c8f5f44d4",
+            "race_number": 8,
+            "name": "The Bunyip (Queens) Grade 5 Series F Pr1 Division1",
+            "start_time": "2022-04-28T07:29:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "b0117fe4-a0a6-4635-b346-ad939f00be5a",
+            "race_number": 9,
+            "name": "Greyhounds As Pets Stake Pr1 Division1",
+            "start_time": "2022-04-28T07:48:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "8aef3a96-71eb-49f7-b20b-39e51f9bbea3",
+            "race_number": 10,
+            "name": "Gawler Dry Cleaners Stake Pr1 Division2",
+            "start_time": "2022-04-28T08:06:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "00944f93-f33a-46a9-a901-4ff02ebf2a71",
+            "race_number": 11,
+            "name": "Nixon's Function Centre Stake Pr1 Division3",
+            "start_time": "2022-04-28T08:23:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a25b1769-260e-4460-aebf-bf65abc5d9ae",
+            "race_number": 12,
+            "name": "Giddy-Up Stake Pr1 Division4",
+            "start_time": "2022-04-28T08:46:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "6ac5f9ab-7a7d-42ec-8e3e-de195b7f2210",
+        "name": "Maitland",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "G",
+        "category_name": "Greyhound Racing",
+        "country": "AUS",
+        "state": "NSW",
+        "races": [
+          {
+            "id": "f7f7f430-8a6f-4920-89c6-79d5bacf47e4",
+            "race_number": 1,
+            "name": "Cosmic Bonus @ Stud Maiden",
+            "start_time": "2022-04-28T05:37:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "ec436730-7a39-46d3-8894-16711968cc09",
+            "race_number": 2,
+            "name": "Ladbrokes Maiden",
+            "start_time": "2022-04-28T06:02:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "320c8996-d130-4f32-92d8-4ba5ccb2f9bc",
+            "race_number": 3,
+            "name": "Heddon Greta Hotel",
+            "start_time": "2022-04-28T06:24:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "0f5cc8b9-a352-44e4-bc35-51c173d51b09",
+            "race_number": 4,
+            "name": "Maitland Supporters Club Mother's Day Necklace Hea",
+            "start_time": "2022-04-28T06:44:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "b7268b10-1d71-4a41-9b64-df826fabc54a",
+            "race_number": 5,
+            "name": "Maitland Supporters Club Mother's Day Necklace Hea",
+            "start_time": "2022-04-28T07:09:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a7fd2c0a-1976-4a56-9e9e-accfb641bef7",
+            "race_number": 6,
+            "name": "Maitland Supporters Club Mother's Day Necklace Hea",
+            "start_time": "2022-04-28T07:24:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "bdddcad5-9e29-4cc6-959e-80bde6a84991",
+            "race_number": 7,
+            "name": "Maitland Supporters Club Mother's Day Necklace Hea",
+            "start_time": "2022-04-28T07:42:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "02a9fb5b-a236-41a5-b811-e79db115da42",
+            "race_number": 8,
+            "name": "Maitland Supporters Club Mother's Day Necklace Hea",
+            "start_time": "2022-04-28T08:02:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "06aba746-643a-41b6-bbf2-76321188c077",
+            "race_number": 9,
+            "name": "Special Sauce Lodge",
+            "start_time": "2022-04-28T08:19:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a1b2bc89-4209-4387-9bb5-d455dc409f32",
+            "race_number": 10,
+            "name": "Shipley Meats Masters",
+            "start_time": "2022-04-28T08:39:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "21626f1f-9063-4cda-b9c2-fdcf80534923",
+        "name": "Narrogin",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "T",
+        "category_name": "Thoroughbred Horse Racing",
+        "country": "AUS",
+        "state": "WA",
+        "races": [
+          {
+            "id": "69dc8988-a3f3-4c82-ac3c-81515b16d130",
+            "race_number": 0,
+            "name": "Narrogin",
+            "start_time": "2022-04-28T05:52:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "78c558c5-9a10-4038-9b28-92c7ec31ba99",
+            "race_number": 1,
+            "name": "Season Final 2022 (Bm46+)",
+            "start_time": "2022-04-28T05:52:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "8900e4cf-28a1-41e2-9b33-c71a4e2fc9a8",
+            "race_number": 2,
+            "name": "Thank You Industry (Bm46+)",
+            "start_time": "2022-04-28T06:27:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "c1b7e15e-3752-4632-9034-9ea2bcfb48de",
+            "race_number": 3,
+            "name": "Tabtouch Better Your Bet Mdn",
+            "start_time": "2022-04-28T07:02:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "8e63f8d8-5fdd-43cd-8a1a-0d7f72d79fb4",
+            "race_number": 4,
+            "name": "Gannons Mdn Hcp",
+            "start_time": "2022-04-28T07:35:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "b0c7fe17-1418-40c6-841f-f639d621c5f7",
+            "race_number": 5,
+            "name": "Tabtouch - Got The Touch-Bm52+",
+            "start_time": "2022-04-28T08:05:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "16894533-67b7-47f6-8b51-c5ccba542457",
+            "race_number": 6,
+            "name": "Sky Racing C'ship Heat (C5)",
+            "start_time": "2022-04-28T08:35:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "af36410d-6263-416d-a00a-805df80a0443",
+            "race_number": 7,
+            "name": "Thank U Staff&Volunteers-Bm52+",
+            "start_time": "2022-04-28T09:05:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "dac1a5ac-3296-43b1-920d-56c1d8b00559",
+        "name": "Traralgon",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "G",
+        "category_name": "Greyhound Racing",
+        "country": "AUS",
+        "state": "VIC",
+        "races": [
+          {
+            "id": "b513cfec-607a-439a-9ade-6b29eb3322a2",
+            "race_number": 1,
+            "name": "Sinclair Contracting",
+            "start_time": "2022-04-28T07:20:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "f5af00db-80c4-456d-9f76-d2d6b71df54a",
+            "race_number": 2,
+            "name": "Aussie Secret At Stud ",
+            "start_time": "2022-04-28T07:39:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "20bd6d29-85df-49e3-8e7c-a6586fd5e250",
+            "race_number": 3,
+            "name": "Surface Co Final (Vicgreys)",
+            "start_time": "2022-04-28T07:57:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "01cce7f7-775c-4e61-b26a-2364d4f0be43",
+            "race_number": 4,
+            "name": "Hard Style Rico At Stud ",
+            "start_time": "2022-04-28T08:12:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "f54176f5-815d-41ba-bff3-741b06bf139a",
+            "race_number": 5,
+            "name": "Lv Forklifts",
+            "start_time": "2022-04-28T08:32:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "ddf075eb-a667-47bc-a345-dbc657c3408d",
+            "race_number": 6,
+            "name": "Zack Monelli At Stud",
+            "start_time": "2022-04-28T08:49:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "05201a9d-685b-416a-a8f1-758fdb105b79",
+            "race_number": 7,
+            "name": "Mcmahon Builders",
+            "start_time": "2022-04-28T09:16:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "b6f0772f-311d-41a8-93be-1151269431e8",
+            "race_number": 8,
+            "name": "Hooked On Scotch At Stud",
+            "start_time": "2022-04-28T09:34:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "e6d81ada-41dc-4cee-9115-bf3291fb5f10",
+            "race_number": 9,
+            "name": "Bridges On Argyle Traralgon",
+            "start_time": "2022-04-28T09:54:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "06458d28-4653-48b0-98cd-f31f1910c46a",
+            "race_number": 10,
+            "name": "Catch The Thief At Stud",
+            "start_time": "2022-04-28T10:16:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "44c62a31-f679-4e25-963a-79a063a7e430",
+            "race_number": 11,
+            "name": "R & A Precision Automotive",
+            "start_time": "2022-04-28T10:34:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "09ca1b10-265f-4fd6-bbc5-ab0af996133a",
+            "race_number": 12,
+            "name": "Fenech Curtains & Blinds",
+            "start_time": "2022-04-28T10:52:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "ba834b5c-28eb-4316-a251-73e56c72b087",
+        "name": "Kilmore",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "H",
+        "category_name": "Harness Horse Racing",
+        "country": "AUS",
+        "state": "VIC",
+        "races": [
+          {
+            "id": "b9c3fccb-af8f-4db3-b44b-01aa5e310bc3",
+            "race_number": 1,
+            "name": "C&M Build Group 3Yo & Older Maiden Trot",
+            "start_time": "2022-04-28T07:27:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "ac47c761-28da-406c-b929-1ff2f1ee1136",
+            "race_number": 2,
+            "name": "Worlds Best Hoof Oil Trot",
+            "start_time": "2022-04-28T07:57:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "d56e9a4d-abb6-4d76-a487-c86f8d11398c",
+            "race_number": 3,
+            "name": "Jet Roofing 2Yo Trot",
+            "start_time": "2022-04-28T08:30:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "b6167460-5e93-4bee-8695-6d920897e3af",
+            "race_number": 4,
+            "name": "Tab Long May We Play Pace",
+            "start_time": "2022-04-28T08:57:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "1ac232d6-3bbb-404e-ab87-8f329afdcab1",
+            "race_number": 5,
+            "name": "Mc Security Pace",
+            "start_time": "2022-04-28T09:33:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a88cbf61-8248-4261-aca3-5cd5859a2acd",
+            "race_number": 6,
+            "name": "J & A Mazzetti Trot",
+            "start_time": "2022-04-28T10:03:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a6448fed-7b8b-434b-ae80-0c231431534d",
+            "race_number": 7,
+            "name": "Buds & Branches Florist Pace",
+            "start_time": "2022-04-28T10:33:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "81fd01f1-cd61-4352-8334-9208f3efbe0d",
+            "race_number": 8,
+            "name": "Carlton & United Breweries Pace",
+            "start_time": "2022-04-28T11:03:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "e7efbcf2-da51-43f0-bc49-78111c8d21a6",
+        "name": "Pakenham",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "T",
+        "category_name": "Thoroughbred Horse Racing",
+        "country": "AUS",
+        "state": "VIC",
+        "races": [
+          {
+            "id": "cab17b4e-a953-4e5f-a99f-4ea850e345db",
+            "race_number": 0,
+            "name": "Pakenham",
+            "start_time": "2022-04-28T07:45:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "81e0bf18-0204-42e1-b3d5-bce4f3874bb7",
+            "race_number": 1,
+            "name": "Gg Engineering Mdn Plate",
+            "start_time": "2022-04-28T07:45:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "1e097c7f-5adc-4ed9-b2d6-3ac7a72de423",
+            "race_number": 2,
+            "name": "Race Day Medical Mdn Plate",
+            "start_time": "2022-04-28T08:15:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "2dd7db11-8a54-4640-9cec-5dbfa1624e10",
+            "race_number": 3,
+            "name": "Drouin & District Bank Mdn",
+            "start_time": "2022-04-28T08:45:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "5d1802bd-dbb7-464b-a265-f89afa819e46",
+            "race_number": 4,
+            "name": "Bunyip Equipment Mdn Plate",
+            "start_time": "2022-04-28T09:15:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "c813619d-4fda-4b9e-9de5-ad70bd68f8b5",
+            "race_number": 5,
+            "name": "Danielle Klyn On Sportsbet-C2",
+            "start_time": "2022-04-28T09:45:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "2e13769e-e869-4a57-ad57-14c53f3c632b",
+            "race_number": 6,
+            "name": "Evergreen Turf (Bm64)",
+            "start_time": "2022-04-28T10:15:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "e8c58846-3186-40ae-b641-ae526bb97bdb",
+            "race_number": 7,
+            "name": "Sportsbet Bet With Mates (C1)",
+            "start_time": "2022-04-28T10:45:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "d332b21c-0ae3-4b90-8f07-cd4712f3c9e2",
+            "race_number": 8,
+            "name": "R&C Asphalt (Bm64)",
+            "start_time": "2022-04-28T11:15:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "e1c839f4-2eda-43b1-8cd6-9c6ba964c0bf",
+        "name": "Penrith",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "H",
+        "category_name": "Harness Horse Racing",
+        "country": "AUS",
+        "state": "NSW",
+        "races": [
+          {
+            "id": "4c5baec5-8700-4607-95c1-89b7d93cd38c",
+            "race_number": 1,
+            "name": "Tab Long May We Play Pace",
+            "start_time": "2022-04-28T08:22:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "b4aab45a-636f-4056-82f3-3e4cd3d49754",
+            "race_number": 2,
+            "name": "Conor O'donoghue @ Club Paceway Apr 30 Ladyship Pace",
+            "start_time": "2022-04-28T08:49:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a11e12a4-3f40-48a2-a232-da9d08bf6459",
+            "race_number": 3,
+            "name": "Relay For Life Sat 30 Apr @ Penrith Pace",
+            "start_time": "2022-04-28T09:21:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "896110f0-10cb-4bd0-9ed9-ebb1e7e664ad",
+            "race_number": 4,
+            "name": "Rogue Syndicate @ Club Paceway May 6 Pace",
+            "start_time": "2022-04-28T09:51:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "80ad1280-69b5-4c44-a5f9-4131818729ba",
+            "race_number": 5,
+            "name": "Cliff Conlan Memorial",
+            "start_time": "2022-04-28T10:21:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "69f9f8c9-9ab7-4fa8-8b1f-a24e31557a9c",
+            "race_number": 6,
+            "name": "Sky Racing Active Pace",
+            "start_time": "2022-04-28T10:51:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "c094f0c1-351c-4d03-88d2-813a2a07d82a",
+            "race_number": 7,
+            "name": "Superhero Sunday May 15 @ Penrith Showground Pace",
+            "start_time": "2022-04-28T11:25:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "00dcea12-10b9-433a-b301-bb6cbefc0b4c",
+            "race_number": 8,
+            "name": "Live Music @ Club Paceway 2Yo Pace",
+            "start_time": "2022-04-28T11:50:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "c5143f65-bae3-42c5-a2b8-122854d95ce8",
+        "name": "Ipswich",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "G",
+        "category_name": "Greyhound Racing",
+        "country": "AUS",
+        "state": "QLD",
+        "races": [
+          {
+            "id": "99db88fa-d71a-45b3-966a-e23c573aa842",
+            "race_number": 1,
+            "name": "Tab Long May We Play",
+            "start_time": "2022-04-28T08:42:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "12faac32-08ed-4513-989d-16972f553a6e",
+            "race_number": 2,
+            "name": "Sky Racing",
+            "start_time": "2022-04-28T09:02:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "56821116-d280-4fc3-9fb3-14cf3b97cd33",
+            "race_number": 3,
+            "name": "Free For All/Class 1/630",
+            "start_time": "2022-04-28T09:25:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "9c7daeda-e7fc-4b4a-8a34-30b5c3ea3809",
+            "race_number": 4,
+            "name": "Dover & Sons",
+            "start_time": "2022-04-28T09:43:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "51650485-737b-4f89-86bd-e6985628b40d",
+            "race_number": 5,
+            "name": "Greyhound Gear",
+            "start_time": "2022-04-28T10:07:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "d4c80578-c0c9-4fda-a47f-b424c5ce8272",
+            "race_number": 6,
+            "name": "Www.Ipswichgreyhounds.Com",
+            "start_time": "2022-04-28T10:28:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "c032ec43-5c93-49ef-8ca5-87db37705a72",
+            "race_number": 7,
+            "name": "Chase Newspaper",
+            "start_time": "2022-04-28T10:49:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "1dc2e203-6815-4cef-bc00-b4b4078c60bd",
+            "race_number": 8,
+            "name": "Bodhi Ink Tattoo Gallerly",
+            "start_time": "2022-04-28T11:10:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "4b59d7e3-7577-4ace-8532-5ebec9c1946b",
+            "race_number": 9,
+            "name": "Www.Ipswichgreyhounds.Com",
+            "start_time": "2022-04-28T11:33:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "940763ad-a070-4611-b468-bab8724c4f09",
+            "race_number": 10,
+            "name": "Tab",
+            "start_time": "2022-04-28T11:55:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "924fdaf6-534d-402b-b779-7ec1f7cc36fe",
+        "name": "Sandown Park",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "G",
+        "category_name": "Greyhound Racing",
+        "country": "AUS",
+        "state": "VIC",
+        "races": [
+          {
+            "id": "ffed0262-0b1b-4169-8183-f0023a859b8c",
+            "race_number": 1,
+            "name": "Rsn927 - Racing & Sport",
+            "start_time": "2022-04-28T08:54:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a796d59d-2251-411b-a504-730d8991cf83",
+            "race_number": 2,
+            "name": "Rsn Central - 10:30 Am Weekdays",
+            "start_time": "2022-04-28T09:19:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "64656753-86d7-4537-9a30-c1d75122c7a6",
+            "race_number": 3,
+            "name": "Book Now For Rsn Sandown Cup",
+            "start_time": "2022-04-28T09:37:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "4327e6a6-6b69-4a50-ab48-433aa5dedbdc",
+            "race_number": 4,
+            "name": "Book Now For Mother's Day",
+            "start_time": "2022-04-28T09:58:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "fc7b45bd-c809-42fa-bb28-f49ef3a118ea",
+            "race_number": 5,
+            "name": "Tab - Long May We Play",
+            "start_time": "2022-04-28T10:19:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "e670fd4c-13a2-4c51-b4bf-27416e46461d",
+            "race_number": 6,
+            "name": "Rsn Sandown Cup - May 19",
+            "start_time": "2022-04-28T10:40:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "7bcece0e-0d95-4b48-a763-bf3789fcf4b2",
+            "race_number": 7,
+            "name": "Harrison-Dawson - May 19",
+            "start_time": "2022-04-28T11:01:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "0e7de09a-a3f6-4d84-ac9b-d49a9c42e32f",
+            "race_number": 8,
+            "name": "Sapphire Crown - May 19",
+            "start_time": "2022-04-28T11:22:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "09ebe34c-613f-49f3-9ed1-6c9e82c214f7",
+            "race_number": 9,
+            "name": "Community Support Fund",
+            "start_time": "2022-04-28T11:45:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "3f3ef917-f6ea-42ca-955c-803233c55bf7",
+            "race_number": 10,
+            "name": "Toongabbie Lodge",
+            "start_time": "2022-04-28T12:07:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "893cb6b7-6c67-4da0-8293-3bb67ad04463",
+            "race_number": 11,
+            "name": "Greyhoundfacts.Com.Au",
+            "start_time": "2022-04-28T12:29:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "214300c7-90e7-491b-945c-64ba99217a44",
+            "race_number": 12,
+            "name": "Sandowngreyhounds.Com.Au",
+            "start_time": "2022-04-28T12:48:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "e55c70c1-c891-4e17-b82f-0ac05922d8c0",
+        "name": "Warrnambool",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "G",
+        "category_name": "Greyhound Racing",
+        "country": "AUS",
+        "state": "VIC",
+        "races": [
+          {
+            "id": "ff1a623d-f31d-443f-b817-9291d1dffe85",
+            "race_number": 1,
+            "name": "Wannon Park Bingo - Thursdays",
+            "start_time": "2022-04-28T09:09:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "4996c7ca-4d69-484b-8b0f-b14fa172e295",
+            "race_number": 2,
+            "name": "Edwards Electrical",
+            "start_time": "2022-04-28T09:28:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "d156d68d-8e0f-4540-ba09-506868d72f19",
+            "race_number": 3,
+            "name": "Macey's Bistro Warrnambool Cup Ht1",
+            "start_time": "2022-04-28T09:49:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "f6f5d4b2-8a8a-450e-b1c8-ac803fceb758",
+            "race_number": 4,
+            "name": "Macey's Bistro Warrnambool Cup Ht2",
+            "start_time": "2022-04-28T10:10:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "38708eda-0eb7-4c46-bc9b-34b3a51d47ff",
+            "race_number": 5,
+            "name": "Macey's Bistro Warrnambool Cup Ht3",
+            "start_time": "2022-04-28T10:31:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "0cf6975e-38e5-4121-bc7d-2d610dfa9a80",
+            "race_number": 6,
+            "name": "Macey's Bistro Warrnambool Cup Ht4",
+            "start_time": "2022-04-28T10:55:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "d713965f-d8e2-446d-ac45-7e37a674d116",
+            "race_number": 7,
+            "name": "Macey's Bistro Warrnambool Cup Ht5",
+            "start_time": "2022-04-28T11:13:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "637090b6-916f-440d-b243-3ca382a35aaa",
+            "race_number": 8,
+            "name": "Macey's Bistro Warrnambool Cup Ht6",
+            "start_time": "2022-04-28T11:36:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a6c98f50-f460-428e-a285-6ce681d69fbb",
+            "race_number": 9,
+            "name": "Macey's Bistro Warrnambool Cup Ht7",
+            "start_time": "2022-04-28T11:58:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "094664d6-aa1b-4494-b691-7e4dbc745e37",
+            "race_number": 10,
+            "name": "Macey's Bistro Warrnambool Cup Ht8",
+            "start_time": "2022-04-28T12:14:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "bab87b37-7c9e-4b55-abbf-c1493eb60892",
+            "race_number": 11,
+            "name": "Kermonds Hamburgers Final (3-6 Wins) (Vicgreys)",
+            "start_time": "2022-04-28T12:35:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "e5c578e2-44c6-4f56-862d-bcf8f5d4f9d4",
+            "race_number": 12,
+            "name": "Norfolk Butchers",
+            "start_time": "2022-04-28T12:54:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "fed981ff-83cf-4386-8821-4da15a7d2d88",
+        "name": "Dapto",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "G",
+        "category_name": "Greyhound Racing",
+        "country": "AUS",
+        "state": "NSW",
+        "races": [
+          {
+            "id": "2424c22c-78b0-4823-8a30-b64ba54d93b3",
+            "race_number": 1,
+            "name": "Sportsbet Bet With Mates Maiden",
+            "start_time": "2022-04-28T09:12:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "418cb27e-dfed-4832-a734-c315f0798e4c",
+            "race_number": 2,
+            "name": "Sportsbet Set A Deposit Limit Maiden",
+            "start_time": "2022-04-28T09:31:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "893d9eee-a2c9-47c8-a9ec-b49318f537a3",
+            "race_number": 3,
+            "name": "The Dapto Blackbook",
+            "start_time": "2022-04-28T09:55:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "3a855a56-030b-4ca8-8d5e-3df3c54abb36",
+            "race_number": 4,
+            "name": "Culture Sauce",
+            "start_time": "2022-04-28T10:13:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "497ce535-c690-44e8-89b9-d36f055f3cc2",
+            "race_number": 5,
+            "name": "Ryan's Cleaning Service",
+            "start_time": "2022-04-28T10:37:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "09ac1aec-2a4c-422e-828c-7ee5b390fbe4",
+            "race_number": 6,
+            "name": "Happy Birthday Teri 1-2 Wins 1-2 Wins F",
+            "start_time": "2022-04-28T10:58:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "721dbdf7-3230-49a5-bb84-dce4edf0c49a",
+            "race_number": 7,
+            "name": "Grnsw Middle Distance Series",
+            "start_time": "2022-04-28T11:19:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "a4f4b175-796e-45ae-9067-bbe253673152",
+            "race_number": 8,
+            "name": "Grnsw Middle Distance Series",
+            "start_time": "2022-04-28T11:39:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "f9435bf4-b311-4fe6-a4c2-89236861198a",
+            "race_number": 9,
+            "name": "Commercial Painting Group Final 5Th Grade Series F",
+            "start_time": "2022-04-28T12:01:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "7decdd12-353a-4c2d-bc2d-2fc8d51c908c",
+            "race_number": 10,
+            "name": "H.Parsons Funeral Directors",
+            "start_time": "2022-04-28T12:18:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "5182aa44-9f8d-4af8-ab61-716b81ba3f92",
+            "race_number": 11,
+            "name": "Watch Live On Sportsbet",
+            "start_time": "2022-04-28T12:38:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "9b55ac38-eeb1-4ddd-9e5c-a0ac6200d9d0",
+            "race_number": 12,
+            "name": "Sportsbet Same Race Multi",
+            "start_time": "2022-04-28T12:57:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "beffa150-abda-4113-9fe3-a2cc1e1f68f4",
+        "name": "Hobart",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "G",
+        "category_name": "Greyhound Racing",
+        "country": "AUS",
+        "state": "TAS",
+        "races": [
+          {
+            "id": "c51aa2e9-ce09-4e4c-bd94-5390803000f0",
+            "race_number": 1,
+            "name": "Jared Davies Carpentry & Maintenance Division1",
+            "start_time": "2022-04-28T09:40:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "e0071af4-73a5-4200-ac06-27f6437a9b62",
+            "race_number": 2,
+            "name": "The Mercury Division1",
+            "start_time": "2022-04-28T10:01:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "42aeb324-269c-448d-9fad-adeca8b46101",
+            "race_number": 3,
+            "name": "Ladbroke's Blended Multi Division2",
+            "start_time": "2022-04-28T10:25:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "9ba6a9d8-1dc4-4f94-a55a-8a85177209c8",
+            "race_number": 4,
+            "name": "Tasracing Form Plus Pro Division3",
+            "start_time": "2022-04-28T10:43:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "3919221b-702f-4fcc-83cd-28005ca1c120",
+            "race_number": 5,
+            "name": "Put Your Quaddies On Division1",
+            "start_time": "2022-04-28T11:07:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "b297242f-729c-4f30-bfce-740b80e5fb5f",
+            "race_number": 6,
+            "name": "John Pearce Memorial Division1",
+            "start_time": "2022-04-28T11:30:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "22cc92b7-0b49-4ad4-a64b-b6924b1d56f5",
+            "race_number": 7,
+            "name": "Brighton Hair & Beauty Division1",
+            "start_time": "2022-04-28T11:48:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "578165f2-9a0f-48a9-99a2-7d031d078b30",
+            "race_number": 8,
+            "name": "Surepick Division1",
+            "start_time": "2022-04-28T12:10:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "c25e0ad6-35dc-446b-8b67-7177ddc9db3c",
+            "race_number": 9,
+            "name": "Helen Aitchison Division1",
+            "start_time": "2022-04-28T12:32:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "31e188ec-ed42-45ca-80ab-1643496c7de6",
+            "race_number": 10,
+            "name": "Crown Lager - Australia's Best Division1",
+            "start_time": "2022-04-28T12:51:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      },
+      {
+        "meeting": "bca62328-ae16-4d26-809a-8ceb2b1972a1",
+        "name": "Mandurah",
+        "date": "2022-04-28T00:00:00Z",
+        "category": "G",
+        "category_name": "Greyhound Racing",
+        "country": "AUS",
+        "state": "WA",
+        "races": [
+          {
+            "id": "e32b98ef-43f6-471c-9bfa-b7e875bc4552",
+            "race_number": 1,
+            "name": "Free Entry Tabtouch Park",
+            "start_time": "2022-04-28T10:46:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "4ef0a749-97e2-4e1e-8c1c-c19e6cad9f22",
+            "race_number": 2,
+            "name": "Check Out Betnft.Run",
+            "start_time": "2022-04-28T11:03:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "8b16ae42-bf20-42d5-8fc8-b4fd280232bd",
+            "race_number": 3,
+            "name": "Follow Us On Instagram",
+            "start_time": "2022-04-28T11:25:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "6e7c55bc-27b6-4ebc-a030-7b0d119a5e98",
+            "race_number": 4,
+            "name": "Zack Monelli At Stud",
+            "start_time": "2022-04-28T11:42:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "949667a4-d456-4ead-af8d-303efac452f2",
+            "race_number": 5,
+            "name": "Essential Aircor Services",
+            "start_time": "2022-04-28T12:04:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "904bce2c-56ab-4e0e-b6c1-054ae731bc07",
+            "race_number": 6,
+            "name": "A1 Salvage & Hardware",
+            "start_time": "2022-04-28T12:24:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "50d24eda-aef7-423d-93ec-03407f242d75",
+            "race_number": 7,
+            "name": "Prime Trophies",
+            "start_time": "2022-04-28T12:45:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "48d57e34-634f-4093-9870-446758ec907d",
+            "race_number": 8,
+            "name": "Greyhoundfacts.Com.Au",
+            "start_time": "2022-04-28T13:06:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "2a1039b8-81a2-4980-bf6a-8584df88431d",
+            "race_number": 9,
+            "name": "Mandurah Stockfeeds",
+            "start_time": "2022-04-28T13:26:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "7190f07b-9744-40de-9e18-4031c4fd934c",
+            "race_number": 10,
+            "name": "Tommy Shelby At Stud",
+            "start_time": "2022-04-28T13:46:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          },
+          {
+            "id": "dee9fc1f-800f-4c85-a57d-23959d6e7f12",
+            "race_number": 11,
+            "name": "Digital Greyhound Racing Dgr.Dog",
+            "start_time": "2022-04-28T14:06:00Z",
+            "track_condition": "",
+            "distance": 0,
+            "weather": "",
+            "country": "",
+            "state": ""
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,6 +1,10 @@
-import { Button, TextField } from '@mui/material';
+import { Grid, Paper } from '@mui/material';
 import * as React from 'react';
 
-export function LoginScreen() {
-  return <div>Login screen</div>;
-}
+export const LoginScreen = () => {
+  return (
+    <Grid item xs={8}>
+      <Paper elevation={3}>Implement G SSO</Paper>
+    </Grid>
+  );
+};

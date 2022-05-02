@@ -3,7 +3,7 @@ coverage
 build
 node_modules
 stats.json
-.pnp
+/.pnp
 .pnp.js
 
 # misc
@@ -21,3 +21,9 @@ generated-cra-app
 .cra-template-rb
 template
 .eslintcache
+
+yarn.lock
+
+
+generated.ts*
+graphql.schema.json
